@@ -38,7 +38,7 @@ intentionally empty — supply your own `.mp3` and `.jpg` (see Project Setup).
 
 The demo video uses:
 
-- Music: *Where Our Blue Is* — Hyori (Jujutsu Kaisen OST). © the respective rights holders, used for non-commercial demonstration only.
+- Music: *Where Our Blue Is* - Hyori (Jujutsu Kaisen OST). © the respective rights holders, used for non-commercial demonstration only.
 - Artwork: promotional stills from *Jujutsu Kaisen* (MAPPA / Gege Akutami / Shueisha), used for non-commercial demonstration only.
 
 All rights to these works remain with their owners.
