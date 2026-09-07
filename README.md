@@ -1,4 +1,4 @@
-# 🎵 Processing Sound Side Project
+# Processing Sound Side Project
 
 A interactive audio-visual experience developed using the Processing framework and the Minim sound library. This project visualizes real-time audio frequency data while allowing user control over playback, volume, gain, and delay through mouse interaction.
 
